@@ -1,0 +1,2 @@
+C:\Users\harin\source\repos\GitHubTestAPIs\GitHubTestAPIs\obj\Debug\GitHubTestAPIs.csprojAssemblyReference.cache
+C:\Users\harin\source\repos\GitHubTestAPIs\GitHubTestAPIs\obj\Debug\GitHubTestAPIs.csproj.CoreCompileInputs.cache
