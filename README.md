@@ -17,5 +17,5 @@ Tools & Technologies uses
 •	RestSharp Http Client
 •	Json Handler: Newtonsoft Json
 Enhancements: 
-•	Optimize the code in RestHelpers.cs class into smaller reusable methods
+•	Optimize the code in RestHelpers.cs class into smaller reusable methods.
 •	Json Response can be deserialized into C# objects so that response values can be used across the project.
