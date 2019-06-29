@@ -83,7 +83,7 @@ this.ScenarioInitialize(scenarioInfo);
             TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
                         "issueTitle"});
             table1.AddRow(new string[] {
-                        "this is a new defect3"});
+                        "this is a new defect1"});
 #line 7
  testRunner.Given("I have made a API request to create issue in GitHub repo with issue title", ((string)(null)), table1, "Given ");
 #line 10
@@ -107,8 +107,8 @@ this.ScenarioInitialize(scenarioInfo);
                         "updatedTitle",
                         "issueNumber"});
             table2.AddRow(new string[] {
-                        "this is updated title",
-                        "2"});
+                        "this is updated title1",
+                        "1"});
 #line 14
  testRunner.Given("I have made a API request to edit issue title in GitHub repo", ((string)(null)), table2, "Given ");
 #line 17
