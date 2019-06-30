@@ -20,7 +20,8 @@ Scenario: User can edit issue title in Repo using GitHub API
 Scenario: User can get list of issues from GitHub Repo sorted by Update date
 Given I have made a API request to edit issue title in GitHub repo 	
 		 | updatedTitle      | issueNumber |
-		 | this is new title | 2           |
+		 | this is new title | 2           | 
+#Note : Atlease two issues need to be created. Issue number is unique 
 And I have made a API request to get list of issues sorted by Update date
 		 | sortBy  |
 		 | updated |
